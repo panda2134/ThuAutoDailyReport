@@ -1,0 +1,6 @@
+[credentials]
+username = '2019000000'
+password = '123456'
+
+[firefox]
+headless = false
